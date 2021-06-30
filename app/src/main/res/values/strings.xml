@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">new_2021</string>
+    <string name="Name">Name :-</string>
+    <string name="Enter_name">Enter Your Name</string>
+    <string name="AC_Room">AC Room</string>
+    <string name="Non_AC_Room">Non-AC Room</string>
+    <string name="Arrival_Date">Arrival Date :-</string>
+    <string name="Number_of_days">Number Of Days :-</string>
+    <string name="Arrival_Time">Arrival Time :-</string>
+    <string name="Departure_Time">Departure Time :-</string>
+    <string name="Rooms">Number of Rooms :-</string>
+    <string name="Date_picker">pick date</string>
+    <string name="Rate">Rate Of Rooms :-</string>
+    <string name="Room_Rate">Ac - 800 Rs. / Non-Ac - 500 Rs</string>
+    <string name="Cost">Total Cost :-</string>
+    <string name="Submit">Book</string>
+    <string name="Done">Done</string>
+    <string-array name="items">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="days">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string name="info">For more information, you can contact us on Instagram handle or can email us at <b>hallelujah@gmail.com</b></string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abril_fatface</item>
+        <item>@font/akronim</item>
+        <item>@font/alex_brush</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/archivo_black</item>
+        <item>@font/arizonia</item>
+        <item>@font/autour_one</item>
+        <item>@font/baloo_paaji</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/cherry_swash</item>
+        <item>@font/chewy</item>
+        <item>@font/clicker_script</item>
+        <item>@font/creepster</item>
+        <item>@font/diplomata</item>
+        <item>@font/dr_sugiyama</item>
+        <item>@font/ewert</item>
+        <item>@font/faster_one</item>
+        <item>@font/grand_hotel</item>
+        <item>@font/great_vibes</item>
+        <item>@font/niconne</item>
+        <item>@font/oleo_script_swash_caps</item>
+        <item>@font/playball</item>
+        <item>@font/rochester</item>
+        <item>@font/rye</item>
+        <item>@font/sail</item>
+        <item>@font/smokum</item>
+        <item>@font/sonsie_one</item>
+        <item>@font/spicy_rice</item>
+        <item>@font/spirax</item>
+        <item>@font/stalemate</item>
+        <item>@font/ultra</item>
+        <item>@font/unifrakturmaguntia</item>
+        <item>@font/vampiro_one</item>
+        <item>@font/yellowtail</item>
+    </array>
+</resources>
