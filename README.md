@@ -1,6 +1,5 @@
 a Native Android app using Android Studio
-which facilitates booking a hostel room in the IIIT Alla‐
-habad Visitor Hostel
+which facilitates booking a hostel room in the IIIT Allahabad Visitor Hostel
 
 Uses Firebase as a real time database to store userIds and
 Otps
